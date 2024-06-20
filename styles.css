@@ -82,7 +82,7 @@ a:hover {
 .secundario {
     align-items: center;
     margin: 0 10em;
-    height: 100vh;
+    
 
 }
 
@@ -161,7 +161,8 @@ a:hover {
         margin: 2em 2em;
     }
     .secundario {
-        width: 100vh;
+        display: block;
+        
         margin: 1rem;
         text-align: center;
 
